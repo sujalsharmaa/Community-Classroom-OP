@@ -4,4 +4,5 @@ tcs
 wipro
 icici
 axis
+sbi
 
